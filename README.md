@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Fatima Zahra</h1>
 <h3 align="center">A Software Engineer with a passion for building robust systems for innovative applications </h3>
 
-- 👩‍💻 I have 7 years of experience in Software Engineering.
+- 👩‍💻 I have 7 years of professional experience in Software Engineering.
  
-- 🧙‍♀️ I'm particularly interested in AI and its application in EdTech. I’m currently working on an AI Learning Buddy.
+- 👩‍🏫 I'm particularly interested in AI and its application in EdTech.
+
+- 🧙‍♀️ I’m currently working on an AI Learning Buddy.
 
 - 💬 Ask me about **AI, DevOps, MLOps, AWS**
 

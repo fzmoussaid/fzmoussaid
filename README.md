@@ -5,7 +5,7 @@
  
 - 👩‍🏫 I'm particularly interested in AI and its application in EdTech.
 
-- 🧙‍♀️ I’m currently working on an AI Learning Buddy.
+- 🧙‍♀️ I’m currently working on an [AI Learning Buddy](https://fzmoussaid.github.io/).
 
 - 💬 Ask me about **AI, DevOps, MLOps, AWS**
 
